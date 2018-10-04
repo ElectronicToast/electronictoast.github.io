@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Who I am
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Hi, I'm Ray, and I am studying electrical engineering at Caltech. I am interested in applications of electronics, mechatronics, and control systems in varying fields, particularly robotics and aerospace. In my spare time I enjoy building DIY electronics, cobbling together small robots, and 3D-printing.
