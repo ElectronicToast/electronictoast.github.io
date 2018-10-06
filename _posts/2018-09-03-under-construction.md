@@ -3,7 +3,7 @@ layout: post
 title: Hello!
 ---
 
-This is my personal website, currently under construction.
+Welcome to my personal website! More coming soon.
 
 _Why "ElectronicToast"?_
 
