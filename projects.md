@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: How I ~~wasted~~ spend free time
+subtitle: How I ~~waste~~ spend free time
 ---
 
 This is a collection of personal projects that I have created.
