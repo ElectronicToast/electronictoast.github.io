@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Projects
-subtitle: How I ~~waste~~ spend free time
+subtitle: How I spend my free time
 ---
 
-This is a collection of personal projects that I have created.
+This is a collection of personal projects that I have worked on.
 
 ---
 
