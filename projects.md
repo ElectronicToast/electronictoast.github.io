@@ -20,7 +20,7 @@ I designed the non-programmable hardware that interrupts power to the motors in 
 
 ![FireFly-Front](img/firefly_front_crop.png)
 
-It's rare to meet a hobbyist, electronics enthusiast, or EE/CS student these days who haven't worked with, or at least heard of, Arduino. Arduino is undoubtedly the world's most popular electronics prototyping platform, in the toolbox of hundreds of makers and students. But I suppose that not many of these folks have had the opportunity to work directly with AVR chips, with nothing separating you from the registers and I/O except for AVR Assembly, or know what is truly happening under the hood. 
+It's rare to meet a hobbyist, electronics enthusiast, or EE/CS student these days who haven't worked with, or at least heard of, Arduino. Arduino is undoubtedly the world's most popular electronics prototyping platform, found in the toolbox of thousands of makers and students. But I suppose that not many of these folks have had the opportunity to work directly with AVR chips, with nothing separating you from the registers and I/O except for AVR Assembly, or know what is truly happening under the hood. 
 
 This is why I created [FIREFLY](https://github.com/ElectronicToast/FireFly), an open-source, Arduino-compatible ATmega8 target board. I have had the privilege of taking the digital electronics core class at Caltech, where microprocessor systems were built from the ground up - from logic gates to counters to ALU design to CPU emulators. After that, we developed AVR-based systems while aware of the underlying logic, what makes Arduino `digitalWrite(ledPin)` turn on an LED. I created FIREFLY in order to have a tool for learning more about embedded systems development while sharpening my design skills.
 
