@@ -33,6 +33,8 @@ I was born with a severe vision impairment that causes my eyeballs to oscillate 
 
 This is my proof-of-concept, powered by a Raspberry Pi and a 3D-printed transparent screen. I seek to turn this prototype into a lightweight, robust, and easy-to-use open-source project that anyone with similar visual impairments - or who just want an awesome wearable computer - can build for less than $100.
 
+---
+
 # 3D Printing
 
 Check out my [Thingiverse profile](https://www.thingiverse.com/ElectronicToast/) for some random 3D prints that I've made!
