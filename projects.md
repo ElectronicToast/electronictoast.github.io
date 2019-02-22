@@ -29,9 +29,7 @@ This is why I created [FIREFLY](https://github.com/ElectronicToast/FireFly), an 
 ![ar](img/ar.JPG)
 ![ar-disp](img/ar-display.JPG)
 
-I was born with a severe vision impairment that causes my eyeballs to oscillate in front of a deformed retina. While my condition is irrepairable through surgery, I have always believed in the  power of technology to augment my vision. I wanted to create a sort of open-source Google Glass that could allow me to function in college and in daily life without lugging around a pair of binoculars for whenever I wanted to read something far away - a sort of electronic vision enhancement. 
-
-This is my proof-of-concept, powered by a Raspberry Pi and a 3D-printed transparent screen. I seek to turn this prototype into a lightweight, robust, and easy-to-use open-source project that anyone with similar visual impairments - or who just want an awesome wearable computer - can build for less than $100.
+This is a proof-of-concept of a wearable computer / electronic vision enhancement, powered by a Raspberry Pi and a 3D-printed transparent screen. I seek to turn this prototype into a lightweight, robust, and easy-to-use open-source project that anyone with uncorrectable visual impairments - or who just want an awesome wearable computer - can build for less than $100.
 
 ---
 
