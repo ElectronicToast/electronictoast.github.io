@@ -1,0 +1,88 @@
+---
+# Provide front matter so Jekyll processes this file as SASS.
+---
+
+// Put your custom CSS here if you want to override the defaults.
+// Here are some common customizations for colors
+
+
+$my-orange-dark: #fb8f00;
+$my-orange: #fb8f00;
+$my-orange-light: lighten($my-orange, 15%);
+
+// Customize the menubar color
+.ui.menu {
+  background: $my-orange-light;
+
+  a.item {
+    color: white;
+
+    &:hover {
+      color: white;
+      background-color: $my-orange;
+    }
+  }
+
+  a.active.item, a.active.item:hover {
+    color: white;
+    background-color: $my-orange;
+  }
+}
+
+// "Read More" buttons
+a.ui.bottom.attached.button {
+  color: white;
+  background: $my-orange-light;
+
+  &:hover {
+    background: $my-orange;
+  }
+}
+
+// Tag pill boxes
+div.ui.basic.label {
+  color: white;
+  background: $my-orange-light;
+}
+
+// General links
+a {
+  color: $my-orange-light;
+  &:hover {
+    color: $my-orange;
+  }
+}
+
+// Home page buttons (projects, essays, cv, etc)
+.ui.basic.button, .ui.basic.buttons .button {
+  background: $my-orange-light !important;
+  color: white !important;
+
+  &:hover {
+    background: $my-orange !important;
+    color: white !important;
+  }
+}
+
+// Customize the home page icon colors
+.icon-color {
+  color: $my-orange-light;
+}
+
+
+
+// Customize the background color
+//body {
+//  background-color: #dedede;;
+//}
+
+// Customize the menubar color
+//.ui.menu {
+  // background: $background-start;
+//}
+
+// Customize the home page icon colors
+//.icon-color {
+  // color: silver;
+//}
+
