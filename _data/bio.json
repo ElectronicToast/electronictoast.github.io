@@ -6,7 +6,7 @@
     "email": "rayjhsun@gmail.com",
     "phone": "909-525-6506",
     "website": "https://electronictoast.github.io",
-    "summary": "I am a graduate student studying electrical engineering at USC and a recent graduate of Caltech (B.S. EE, 2020). I am passionate about designing and implementing high-speed, performance-critical systems that span embedded systems, RF and microwave devices, robotics, and a variety of other disciplines.",
+    "summary": "I am a graduate student studying electrical engineering at USC and a recent graduate of Caltech (B.S. 2020). I am passionate about creating high-speed, performance-critical systems that span custom integrated circuits, embedded systems, robotics, and a variety of other disciplines. My research interests include RF/microwave CMOS biosensors and optimal antenna design. In my spare time I enjoy making DIY electronics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,10 +34,8 @@
   },
   "interests": [
     {
-      "name": "embedded systems",
+      "name": "RF/microwave circuits",
       "keywords": [
-        "Arduino",
-        "STM32"
       ]
     },
     {
@@ -46,7 +44,7 @@
       ]
     },
     {
-      "name": "robotics",
+      "name": "embedded systems",
       "keywords": [
       ]
     }
@@ -58,21 +56,19 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
+        "Python",
         "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "STM32",
+        "TI LaunchPad",
+        "Cadence Virtuoso"
       ]
     }
   ],
