@@ -15,7 +15,7 @@ layout: default
     {% endfor %}
   </ul>
   
-    <h3>Blog</h3>
+    <h3>Publications</h3>
   <ul>
     {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
     {% for page in essay_pages %}
