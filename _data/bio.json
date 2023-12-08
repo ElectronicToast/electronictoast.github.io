@@ -6,7 +6,7 @@
     "email": "rayjhsun@gmail.com",
     "phone": "909-525-6506",
     "website": "https://electronictoast.github.io",
-    "summary": "I am a graduate student studying electrical engineering at USC and a recent graduate of Caltech (B.S. EE, 2020). I create high-speed, performance-critical systems that span custom integrated circuits, RF/microwave engineering, embedded systems, and a variety of other disciplines. My current research focus is the design of RF integrated circuits for low-power, ultra-portable, point-of-care biomedical applications.",
+    "summary": "I am a PhD student studying electrical engineering at USC and a recent graduate of Caltech (B.S. 2020). I create high-speed, performance-critical systems spanning custom integrated circuits, RF/microwave engineering, embedded systems, and a variety of other disciplines. My research focuses on designing RFICs for low-power, ultra-portable, point-of-care biomedical applications.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "ray-sun-2020",
         "url": "http://linkedin.com/in/ray-sun-2020"
-      },
-      {
-        "network": "facebook",
-        "username": "ray.sun.7921",
-        "url": "http://facebook.com/ray.sun.7921"
       }
     ]
   },
