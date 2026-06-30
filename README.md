@@ -1,4 +1,4 @@
-# electronictoast.github.io 
+# rjhsun.github.io 
 Personal website of Ray Sun 
 
 ## Credits 
