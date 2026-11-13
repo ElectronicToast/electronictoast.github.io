@@ -10,6 +10,30 @@ $my-orange-dark: #fb8f00;
 $my-orange: #fb8f00;
 $my-orange-light: lighten($my-orange, 15%);
 
+// Contact row on the home page bio card.
+.home-network-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+
+  > a {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .icon {
+    margin: 0;
+  }
+
+  .home-email {
+    color: $my-orange-light;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+  }
+}
+
 // Publication venue badges, separate from the topic labels at the tile footer.
 .ui.cards > .publication-card {
   .publication-venue {

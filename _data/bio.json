@@ -3,7 +3,7 @@
     "name": "Ray Sun",
     "label": "Circuit Designer | Maker | DIY Enthusiast",
     "picture": "/images/rs.png",
-    "email": "rayjhsun@gmail.com",
+    "email-display": "rayjhsun [at] gmail [dot] com",
     "phone": "",
     "website": "https://electronictoast.github.io",
     "summary": "Hi I'm Ray! I create high-speed, performance-critical systems spanning analog and mixed-signal integrated circuits, RF electronics, biomedical sensors, and other technologies. I'm drawn to where physical insight, computational power, and hands-on engineering come together at the edge of what's possible.",
