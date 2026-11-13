@@ -1,16 +1,20 @@
-<!-- Used by theme-essays-builtin-1 -->
+<!-- Publication tiles used by theme-essays-custom. -->
 
-<a class="card" href="{{ site.baseurl}}{{ include.page.url }}">
+<a class="card publication-card" href="{{ site.baseurl}}{{ include.page.url }}">
   <div class="content">
+    {% if include.page.venue %}
+      <span class="publication-venue">{{ include.page.venue | escape }}</span>
+    {% endif %}
     <span class="header">{{ include.page.title }}</span>
     <div class="meta">
       <span class="date">{{ include.page.date | date_to_string }}</span>
     </div>
 
-    <!-- Page content only up until '.' -->
-    <div class="description">
-      {{ include.page.content | markdownify |  split: '<!--- split -->' | first }}
-    </div>
+    {% if include.page.authors %}
+      <div class="description publication-authors">
+        <p>{{ include.page.authors | escape }}</p>
+      </div>
+    {% endif %}
   </div>
 
   <div class="extra content">
