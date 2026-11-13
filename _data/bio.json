@@ -1,45 +1,45 @@
 {
   "basics": {
     "name": "Ray Sun",
-    "label": "Student | Maker | DIY Electronics Enthusiast",
+    "label": "Circuit Designer | Maker | DIY Enthusiast",
     "picture": "/images/rs.png",
     "email": "rayjhsun@gmail.com",
     "phone": "",
     "website": "https://electronictoast.github.io",
-    "summary": "I am a PhD student studying electrical engineering at USC and a recent graduate of Caltech (B.S. 2020). I create high-speed, performance-critical systems spanning analog integrated circuits, RF/microwave engineering, embedded systems, and a variety of other disciplines. My research focuses on RFICs for low-power, portable, point-of-care biomedical applications.",
+    "summary": "Hi I'm Ray! I create high-speed, performance-critical systems spanning analog and mixed-signal integrated circuits, RF electronics, biomedical sensors, and other technologies. I'm drawn to where physical insight, computational power, and hands-on engineering come together at the edge of what's possible.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Los Angeles",
+      "city": "Bay Area",
       "countryCode": "USA",
       "region": "California"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "electronictoast",
-        "url": "http://github.com/electronictoast"
+        "username": "rjhsun",
+        "url": "http://github.com/rjhsun"
       },
       {
         "network": "linkedin",
-        "username": "ray-sun-2020",
-        "url": "http://linkedin.com/in/ray-sun-2020"
+        "username": "ray-sun-ic",
+        "url": "https://www.linkedin.com/in/ray-sun-ic/"
       }
     ]
   },
   "interests": [
     {
-      "name": "RF/microwave electronics",
+      "name": "RF/mmWave circuits",
       "keywords": [
       ]
     },
     {
-      "name": "biomedical devices",
+      "name": "UWB wireline",
       "keywords": [
       ]
     },
     {
-      "name": "amateur radio",
+      "name": "ultrafast inverse design",
       "keywords": [
       ]
     }
